@@ -201,7 +201,7 @@ $ -> docker commit -m "Création de mon image" IdDeMonConteneur NomImage:v1.0
 ```bash
 $ -> docker image rm IdDeMonImage
 ```
-<h1>
+<hr>
 
 | Exemple de DockerFile (Ne pas oublier le point à la fin quand on créer le dockerfile)|
 |------------------|
